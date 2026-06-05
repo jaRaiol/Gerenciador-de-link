@@ -38,7 +38,7 @@ Este projeto é um _Gerenciador de Links_, uma aplicação web desenvolvida com 
 
 ## 💻 Projeto
 
-- [Acesse o projeto finalizado, online](https://github.com/jaRaiol/Gerenciador-de-link)
+- [Acesse o projeto finalizado, online](https://jaraiol.github.io/Gerenciador-de-link/)
 
 ---
 
